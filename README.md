@@ -22,8 +22,9 @@ Continuous Growth: – Always learning, exploring, and pushing boundaries
 - **WeedWatch** – AI-powered weed detection system for smarter farming  
 - **Hospital Management System** – Digital solution for patient & staff management  
 - **Blog Summarizer App** – Front-end + Python back-end for quick reads  
-- **To-Do List & Utilities** – Productivity apps (quote generator, password generator, etc.)
-- 
+- **To-Do List & Utilities** – Productivity apps (quote generator, password generator, etc.) 
+
+
 
 📫 Connect With Me  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/syed-shayan-haider/)  
