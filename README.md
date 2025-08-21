@@ -5,11 +5,10 @@
 I love building at the intersection of "technology and creativity" — from sleek web apps to engaging content and video stories. My work blends "front-end development, problem-solving, and design instinct" to craft experiences that are both powerful and inspiring.  
 
 🚀 What I Do  
-Web Development: – Building responsive, user-focused digital products  
-Creative Content: – Video editing & storytelling that connects  
-Problem Solving: – Turning complex challenges into simple, scalable solutions  
-Continuous Growth: – Always learning, exploring, and pushing boundaries  
-
+- **Web Development** – Building responsive, user-focused digital products  
+- **Creative Content** – Video editing & storytelling that connects  
+- **Problem Solving** – Turning complex challenges into simple, scalable solutions  
+- **Continuous Growth** – Always learning, exploring, and pushing boundaries  
 
 🛠️ Tech Snapshot  
 - Front-end & Back-end Development  
