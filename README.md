@@ -7,7 +7,7 @@
 <br/>
 ## 👨🏻‍💻 About Me
 
-<img src="https://media.giphy.com/media/3o7aD4cFf8Wen9sQPa/giphy.gif" height="250px" align="right" style="border-radius: 12px;"/>
+
 
 - 💻 Computer Scientist | Web Developer | Content Creator  
 - 🌟 Building experiences at the intersection of **technology & creativity**  
