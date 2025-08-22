@@ -1,11 +1,10 @@
-<h1 align="center">
-  Hello <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px"> I'm Syed Shayan Haider
-</h1>
+<h1 align="center">Hello <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" height="40px"> I'm Syed Shayan Haider</h1>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" alt="Developer Banner" width="70%" />
+  <img src="https://media.giphy.com/media/26BRv0ThflsHCqDrG/giphy.gif" alt="Coding GIF" width="80%" />
 </div>
 
+<br/>
 ## 👨🏻‍💻 About Me
 
 <img src="https://media.giphy.com/media/3o7aD4cFf8Wen9sQPa/giphy.gif" height="250px" align="right" style="border-radius: 12px;"/>
