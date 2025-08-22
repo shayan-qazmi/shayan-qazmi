@@ -5,7 +5,7 @@
 </div>
 
 <br/>
-## 👨🏻‍💻 About Me
+👨🏻‍💻 About Me
 
 
 
@@ -46,9 +46,9 @@
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=shayan-qazmi&color=blue&style=flat&label=Profile+Views" alt="Profile Views" />  
   <br/><br/>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=shayan-qazmi&show_icons=true&theme=tokyonight" alt="Shayan's GitHub stats" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shayan-qazmi&layout=compact&theme=tokyonight" alt="Top Languages" />
   <br/><br/>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shayan-qazmi&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=shayan-qazmi&show_icons=true&theme=tokyonight" alt="Shayan's GitHub stats" />
   <br/><br/>
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shayan-qazmi&theme=tokyonight" alt="GitHub Streak" />
   <br/><br/>
