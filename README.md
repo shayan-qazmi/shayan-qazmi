@@ -1,7 +1,7 @@
 <h1 align="center">Hello <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" height="40px"> I'm Syed Shayan Haider</h1>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/26BRv0ThflsHCqDrG/giphy.gif" alt="Coding GIF" width="80%" />
+<img src="https://media.giphy.com/media/3o7abB06u9bNzA8lu8/giphy.gif" height="280px" align="right" />
 </div>
 
 <br/>
