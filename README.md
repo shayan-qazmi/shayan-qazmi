@@ -2,23 +2,7 @@
   Hello <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px"> I'm Syed Shayan Haider
 </h1>
 
-<div align="center">
-  <img src="https://media.giphy.com/media/L95W4wv8nnb9K/giphy.gif" alt="Developer Banner" width="80%" />
-</div>
-
 <br/>
-
-## 📫 Connect With Me
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/syed-shayan-haider/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2" height="35px" /></a>
-  <a href="https://github.com/shayan-qazmi" target="_blank"><img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white&labelColor=171515" height="35px" /></a>
-  <a href="https://shayanqazmi.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white&labelColor=000000" height="35px" /></a>
-  <a href="https://instagram.com/shayanqazmi" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=E4405F" height="35px" /></a>
-  <a href="mailto:shayanhaiderqazmi@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836" height="35px" /></a>
-</p>
-
----
 
 ## 👨🏻‍💻 About Me
 
@@ -61,6 +45,18 @@
 - **Hospital Management System** – Digital solution for patients & staff  
 - **Blog Summarizer App** – Front-end + Python back-end for fast reading  
 - **To-Do List & Utilities** – Productivity tools (quote generator, password generator, etc.)  
+
+---
+
+## 📫 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/syed-shayan-haider/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2" height="35px" /></a>
+  <a href="https://github.com/shayan-qazmi" target="_blank"><img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white&labelColor=171515" height="35px" /></a>
+  <a href="https://shayanqazmi.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white&labelColor=000000" height="35px" /></a>
+  <a href="https://instagram.com/shayanqazmi" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=E4405F" height="35px" /></a>
+  <a href="mailto:shayanhaiderqazmi@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836" height="35px" /></a>
+</p>
 
 ---
 
