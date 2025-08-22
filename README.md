@@ -62,7 +62,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/syed-shayan-haider/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2" height="40px" /></a>
   <a href="https://github.com/shayan-qazmi" target="_blank"><img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white&labelColor=171515" height="40px" /></a>
-  <a href="https://shayanqazmi.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white&labelColor=000000" height="40px" /></a>
+  <a href="https://syedshayanhaiderportfolio.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white&labelColor=000000" height="40px" /></a>
   <a href="https://instagram.com/shayanqazmi" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=E4405F" height="40px" /></a>
   <a href="mailto:shayanhaiderqazmi@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836" height="40px" /></a>
 </p>
