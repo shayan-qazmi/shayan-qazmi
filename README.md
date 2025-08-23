@@ -65,6 +65,7 @@
   <a href="https://syedshayanhaiderportfolio.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white&labelColor=000000" height="40px" /></a>
   <a href="https://instagram.com/shayanqazmi" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=E4405F" height="40px" /></a>
   <a href="mailto:shayanhaiderqazmi@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836" height="40px" /></a>
+    <a href="https://wa.me/923130882881" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=25D366" height="40px" /></a>
 </p>
 
 ---
