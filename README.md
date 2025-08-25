@@ -15,7 +15,7 @@
 - 🌱 Always learning **Python, Flask, React, AWS deployment**  
 - 👯 Open to collaborating on **tech projects, apps, & content**  
 - 💬 Ask me about **web development, Python, Flask, or content creation**  
-- ⚡ Fun fact: I enjoy **gaming and exploring tech trends**.
+- ⚡ Fun fact: I enjoy **gaming and exploring tech trends**
 
 ---
 
