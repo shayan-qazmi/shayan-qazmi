@@ -50,7 +50,7 @@
   <br/><br/>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=shayan-qazmi&show_icons=true&theme=tokyonight" alt="Shayan's GitHub stats" />
   <br/><br/>
-<img align="center" src="https://streak-stats.demolab.com?user=shayan-qazmi&theme=tokyonight" alt="GitHub Streak" />
+<img align="center" src="https://streak-stats.demolab.com?user=shayan-qazmi&theme=tokyonight&date=20250825" alt="GitHub Streak" />
   <br/><br/>
   <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=shayan-qazmi&theme=tokyo-night" alt="Activity Graph" />
 </div>
