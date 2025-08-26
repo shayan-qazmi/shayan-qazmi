@@ -2,10 +2,8 @@
 
 <h3 align="center">Exploring Web, AI & Design — from Pakistan to the World</h3>
 <div align="center">
-<p align="center">
-  <img src="https://media.giphy.com/media/RlkGseHejYcThFUpWx/giphy.gif" alt="Neon Design Loop" width="400" />
-</p>
-
+  
+  <img src="https://media.giphy.com/media/Um3ljJl8jrnHy/giphy.gif" alt="Coding Monkey" width="320" />
 
 
 
