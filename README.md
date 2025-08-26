@@ -1,14 +1,5 @@
-<!-- HEADER -->
-<h1 align="center">
-  Hello 
-  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" height="40px"> 
-  I'm <span style="color:#38B2AC;">Syed Shayan Haider</span>
-</h1>
-
-<h3 align="center">✨ Exploring Web, AI & Design — from Pakistan to the World 🌍</h3>
-
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Creative Coding" width="420px"/>
+  <img src="banner.png" alt="Syed Shayan Haider Banner"/>
 </p>
 
 ---
