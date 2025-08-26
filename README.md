@@ -2,7 +2,8 @@
 
 <h3 align="center">Exploring Web, AI & Design — from Pakistan to the World</h3>
 <div align="center">
-<img src="https://media.giphy.com/media/3o7abB06u9bNzA8lu8/giphy.gif" height="280px" align="right" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Creative Coding" width="400" />
+
 
 
 </div>
