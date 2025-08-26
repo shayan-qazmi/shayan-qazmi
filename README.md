@@ -1,11 +1,10 @@
 <p align="center">
-  <img src="banner.png" alt="Syed Shayan Haider Banner"/>
-</p>
-
-<p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=38B2AC&center=true&vCenter=true&width=600&lines=Hello%2C+I'm+Syed+Shayan+Haider;Computer+Scientist+%7C+Web+Developer;AI+%26+Design+Enthusiast;Content+Creator+%7C+Innovator" alt="Typing Banner" />
 </p>
 
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Creative Coding" width="420px"/>
+</p>
 ---
 
 ## 👨🏻‍💻 About Me  
