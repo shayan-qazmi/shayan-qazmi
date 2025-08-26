@@ -2,7 +2,8 @@
 
 <h3 align="center">Exploring Web, AI & Design — from Pakistan to the World</h3>
 <div align="center">
-<img src="https://media.giphy.com/media/3o7abB06u9bNzA8lu8/giphy.gif" height="280px" align="right" />
+![Coding Raccoon](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTZ5bWllZTB1d3MydTJ2dTRyaTNrcjdqc2x6YWxxeXRtY3F5ZTA3MyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/VbnUQpnihPSIgIXuZv/giphy.gif)
+
 </div>
 
 <br/>
