@@ -14,7 +14,7 @@
 - 🚀 Currently working on **WeedWatch – AI-powered weed detection system**  
 - 🌱 Always learning **Python, Flask, React, AWS deployment**  
 - 👯 Open to collaborating on **tech projects, apps, & content**  
-- ⚡ Fun fact: I enjoy **gaming 🎮 & exploring tech trends 🚀**  
+- ⚡ Fun fact: I enjoy **gaming 🎮 & exploring tech trends 🚀**.
 ---
 
 ## 🛠️ Tech Stack  
