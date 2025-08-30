@@ -19,6 +19,9 @@
 
 ## 🛠️ Tech Stack  
 
+<p align="center">
+  <img src="assets/techstack-animation.svg" alt="Tech Stack Animation" width="95%" />
+</p>
 <!-- Tech Stack Animation (SVG, SMIL-based; GitHub-safe) -->
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 420" width="900" height="420" role="img" aria-labelledby="title desc">
   <title id="title">Animated Tech Stack</title>
@@ -142,6 +145,118 @@
   <g transform="translate(150,210)" filter="url(#shadow)">
     <use href="#postgres"/>
     <animateTransform id="a6" attributeName="transform" type="translate"
+      from="0,-260" to="0,0" dur="0.8s" begin="0.40s" fill="freeze"
+      keySplines="0.17 0.67 0.3 1" calcMode="spline"/>
+    <animate attributeName="opacity" from="0" to="1" dur="0.6s" begin="0.40s" fill="freeze"/>
+    <animateTransform attributeName="transform" type="scale"
+      values="0.7;1.1;1" dur="0.6s" begin="a6.end" fill="freeze"/>
+    <g id="pulse6"><use href="#pulse"/></g>
+  </g>
+
+  <g transform="translate(290,210)" filter="url(#shadow)">
+    <use href="#html"/>
+    <animateTransform id="a7" attributeName="transform" type="translate"
+      from="-320,0" to="0,0" dur="0.8s" begin="0.48s" fill="freeze"
+      keySplines="0.17 0.67 0.3 1" calcMode="spline"/>
+    <animate attributeName="opacity" from="0" to="1" dur="0.6s" begin="0.48s" fill="freeze"/>
+    <animateTransform attributeName="transform" type="scale"
+      values="0.7;1.1;1" dur="0.6s" begin="a7.end" fill="freeze"/>
+    <g id="pulse7"><use href="#pulse"/></g>
+  </g>
+
+  <g transform="translate(430,210)" filter="url(#shadow)">
+    <use href="#css"/>
+    <animateTransform id="a8" attributeName="transform" type="translate"
+      from="320,0" to="0,0" dur="0.8s" begin="0.56s" fill="freeze"
+      keySplines="0.17 0.67 0.3 1" calcMode="spline"/>
+    <animate attributeName="opacity" from="0" to="1" dur="0.6s" begin="0.56s" fill="freeze"/>
+    <animateTransform attributeName="transform" type="scale"
+      values="0.7;1.1;1" dur="0.6s" begin="a8.end" fill="freeze"/>
+    <g id="pulse8"><use href="#pulse"/></g>
+  </g>
+
+  <g transform="translate(570,210)" filter="url(#shadow)">
+    <use href="#bootstrap"/>
+    <animateTransform id="a9" attributeName="transform" type="translate"
+      from="0,300" to="0,0" dur="0.8s" begin="0.64s" fill="freeze"
+      keySplines="0.17 0.67 0.3 1" calcMode="spline"/>
+    <animate attributeName="opacity" from="0" to="1" dur="0.6s" begin="0.64s" fill="freeze"/>
+    <animateTransform attributeName="transform" type="scale"
+      values="0.7;1.1;1" dur="0.6s" begin="a9.end" fill="freeze"/>
+    <g id="pulse9"><use href="#pulse"/></g>
+  </g>
+
+  <g transform="translate(710,210)" filter="url(#shadow)">
+    <use href="#tailwind"/>
+    <animateTransform id="a10" attributeName="transform" type="translate"
+      from="-300,260" to="0,0" dur="0.8s" begin="0.72s" fill="freeze"
+      keySplines="0.17 0.67 0.3 1" calcMode="spline"/>
+    <animate attributeName="opacity" from="0" to="1" dur="0.6s" begin="0.72s" fill="freeze"/>
+    <animateTransform attributeName="transform" type="scale"
+      values="0.7;1.1;1" dur="0.6s" begin="a10.end" fill="freeze"/>
+    <g id="pulse10"><use href="#pulse"/></g>
+  </g>
+
+  <!-- Row 3 -->
+  <g transform="translate(150,290)" filter="url(#shadow)">
+    <use href="#vscode"/>
+    <animateTransform id="a11" attributeName="transform" type="translate"
+      from="-260,220" to="0,0" dur="0.8s" begin="0.80s" fill="freeze"
+      keySplines="0.17 0.67 0.3 1" calcMode="spline"/>
+    <animate attributeName="opacity" from="0" to="1" dur="0.6s" begin="0.80s" fill="freeze"/>
+    <animateTransform attributeName="transform" type="scale"
+      values="0.7;1.1;1" dur="0.6s" begin="a11.end" fill="freeze"/>
+    <g id="pulse11"><use href="#pulse"/></g>
+  </g>
+
+  <g transform="translate(290,290)" filter="url(#shadow)">
+    <use href="#git"/>
+    <animateTransform id="a12" attributeName="transform" type="translate"
+      from="320,-240" to="0,0" dur="0.8s" begin="0.88s" fill="freeze"
+      keySplines="0.17 0.67 0.3 1" calcMode="spline"/>
+    <animate attributeName="opacity" from="0" to="1" dur="0.6s" begin="0.88s" fill="freeze"/>
+    <animateTransform attributeName="transform" type="scale"
+      values="0.7;1.1;1" dur="0.6s" begin="a12.end" fill="freeze"/>
+    <g id="pulse12"><use href="#pulse"/></g>
+  </g>
+
+  <g transform="translate(430,290)" filter="url(#shadow)">
+    <use href="#vercel"/>
+    <animateTransform id="a13" attributeName="transform" type="translate"
+      from="-340,0" to="0,0" dur="0.8s" begin="0.96s" fill="freeze"
+      keySplines="0.17 0.67 0.3 1" calcMode="spline"/>
+    <animate attributeName="opacity" from="0" to="1" dur="0.6s" begin="0.96s" fill="freeze"/>
+    <animateTransform attributeName="transform" type="scale"
+      values="0.7;1.1;1" dur="0.6s" begin="a13.end" fill="freeze"/>
+    <g id="pulse13"><use href="#pulse"/></g>
+  </g>
+
+  <g transform="translate(570,290)" filter="url(#shadow)">
+    <use href="#netlify"/>
+    <animateTransform id="a14" attributeName="transform" type="translate"
+      from="340,0" to="0,0" dur="0.8s" begin="1.04s" fill="freeze"
+      keySplines="0.17 0.67 0.3 1" calcMode="spline"/>
+    <animate attributeName="opacity" from="0" to="1" dur="0.6s" begin="1.04s" fill="freeze"/>
+    <animateTransform attributeName="transform" type="scale"
+      values="0.7;1.1;1" dur="0.6s" begin="a14.end" fill="freeze"/>
+    <g id="pulse14"><use href="#pulse"/></g>
+  </g>
+
+  <g transform="translate(710,290)" filter="url(#shadow)">
+    <use href="#cpp"/>
+    <animateTransform id="a15" attributeName="transform" type="translate"
+      from="0,300" to="0,0" dur="0.8s" begin="1.12s" fill="freeze"
+      keySplines="0.17 0.67 0.3 1" calcMode="spline"/>
+    <animate attributeName="opacity" from="0" to="1" dur="0.6s" begin="1.12s" fill="freeze"/>
+    <animateTransform attributeName="transform" type="scale"
+      values="0.7;1.1;1" dur="0.6s" begin="a15.end" fill="freeze"/>
+    <g id="pulse15"><use href="#pulse"/></g>
+  </g>
+
+  <!-- A global (non-visual) timing marker to reference -->
+  <animate id="assemble" attributeName="opacity" from="1" to="1" dur="1.2s" begin="0s" fill="freeze"/>
+</svg>
+
 
 
 ---
