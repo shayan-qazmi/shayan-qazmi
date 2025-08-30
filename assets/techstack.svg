@@ -1,47 +1,25 @@
-<svg width="100%" height="100%" viewBox="0 0 800 500" xmlns="http://www.w3.org/2000/svg">
+<svg width="100%" height="100%" viewBox="0 0 800 400" xmlns="http://www.w3.org/2000/svg">
   <style>
-    /* Typing effect */
-    .typing {
-      font-family: monospace;
-      font-size: 36px;
-      fill: #00d8ff;
-      stroke: black;
-      stroke-width: 1;
-      overflow: hidden;
-      white-space: nowrap;
-      animation: typing 3s steps(20, end) forwards, blink 0.8s infinite;
-      width: 0;
-    }
-    @keyframes typing {
-      from { width: 0 }
-      to { width: 500px }
-    }
-    @keyframes blink {
-      50% { stroke: transparent }
-    }
-
-    /* Icon animation */
     .icon {
       opacity: 0;
       transform: scale(0);
       animation: popIn 0.8s ease forwards;
     }
-    .icon:nth-child(2) { animation-delay: 0.2s; }
-    .icon:nth-child(3) { animation-delay: 0.4s; }
-    .icon:nth-child(4) { animation-delay: 0.6s; }
-    .icon:nth-child(5) { animation-delay: 0.8s; }
-    .icon:nth-child(6) { animation-delay: 1s; }
-    .icon:nth-child(7) { animation-delay: 1.2s; }
-    .icon:nth-child(8) { animation-delay: 1.4s; }
-    .icon:nth-child(9) { animation-delay: 1.6s; }
-    .icon:nth-child(10) { animation-delay: 1.8s; }
-    .icon:nth-child(11) { animation-delay: 2s; }
-    .icon:nth-child(12) { animation-delay: 2.2s; }
-    .icon:nth-child(13) { animation-delay: 2.4s; }
-    .icon:nth-child(14) { animation-delay: 2.6s; }
-    .icon:nth-child(15) { animation-delay: 2.8s; }
-    .icon:nth-child(16) { animation-delay: 3s; }
-
+    .icon:nth-child(1) { animation-delay: 0.2s; }
+    .icon:nth-child(2) { animation-delay: 0.4s; }
+    .icon:nth-child(3) { animation-delay: 0.6s; }
+    .icon:nth-child(4) { animation-delay: 0.8s; }
+    .icon:nth-child(5) { animation-delay: 1s; }
+    .icon:nth-child(6) { animation-delay: 1.2s; }
+    .icon:nth-child(7) { animation-delay: 1.4s; }
+    .icon:nth-child(8) { animation-delay: 1.6s; }
+    .icon:nth-child(9) { animation-delay: 1.8s; }
+    .icon:nth-child(10) { animation-delay: 2s; }
+    .icon:nth-child(11) { animation-delay: 2.2s; }
+    .icon:nth-child(12) { animation-delay: 2.4s; }
+    .icon:nth-child(13) { animation-delay: 2.6s; }
+    .icon:nth-child(14) { animation-delay: 2.8s; }
+    .icon:nth-child(15) { animation-delay: 3s; }
     @keyframes popIn {
       0% { opacity: 0; transform: scale(0); }
       70% { opacity: 1; transform: scale(1.2); }
@@ -49,28 +27,24 @@
     }
   </style>
 
-  <!-- Typing Header -->
-  <text x="50" y="60" class="typing">🚀 Tech Stack</text>
-
   <!-- Row 1 -->
-  <image class="icon" x="50" y="100" width="60" height="60" href="https://skillicons.dev/icons?i=python" />
-  <image class="icon" x="150" y="100" width="60" height="60" href="https://skillicons.dev/icons?i=js" />
-  <image class="icon" x="250" y="100" width="60" height="60" href="https://skillicons.dev/icons?i=react" />
-  <image class="icon" x="350" y="100" width="60" height="60" href="https://skillicons.dev/icons?i=flask" />
-  <image class="icon" x="450" y="100" width="60" height="60" href="https://skillicons.dev/icons?i=nodejs" />
+  <image class="icon" x="50" y="40" width="60" height="60" href="https://skillicons.dev/icons?i=python" />
+  <image class="icon" x="150" y="40" width="60" height="60" href="https://skillicons.dev/icons?i=js" />
+  <image class="icon" x="250" y="40" width="60" height="60" href="https://skillicons.dev/icons?i=react" />
+  <image class="icon" x="350" y="40" width="60" height="60" href="https://skillicons.dev/icons?i=flask" />
+  <image class="icon" x="450" y="40" width="60" height="60" href="https://skillicons.dev/icons?i=nodejs" />
 
   <!-- Row 2 -->
-  <image class="icon" x="50" y="200" width="60" height="60" href="https://skillicons.dev/icons?i=postgres" />
-  <image class="icon" x="150" y="200" width="60" height="60" href="https://skillicons.dev/icons?i=html" />
-  <image class="icon" x="250" y="200" width="60" height="60" href="https://skillicons.dev/icons?i=css" />
-  <image class="icon" x="350" y="200" width="60" height="60" href="https://skillicons.dev/icons?i=bootstrap" />
-  <image class="icon" x="450" y="200" width="60" height="60" href="https://skillicons.dev/icons?i=tailwind" />
+  <image class="icon" x="50" y="140" width="60" height="60" href="https://skillicons.dev/icons?i=postgres" />
+  <image class="icon" x="150" y="140" width="60" height="60" href="https://skillicons.dev/icons?i=html" />
+  <image class="icon" x="250" y="140" width="60" height="60" href="https://skillicons.dev/icons?i=css" />
+  <image class="icon" x="350" y="140" width="60" height="60" href="https://skillicons.dev/icons?i=bootstrap" />
+  <image class="icon" x="450" y="140" width="60" height="60" href="https://skillicons.dev/icons?i=tailwind" />
 
   <!-- Row 3 -->
-  <image class="icon" x="50" y="300" width="60" height="60" href="https://skillicons.dev/icons?i=vscode" />
-  <image class="icon" x="150" y="300" width="60" height="60" href="https://skillicons.dev/icons?i=git" />
-  <image class="icon" x="250" y="300" width="60" height="60" href="https://skillicons.dev/icons?i=vercel" />
-  <image class="icon" x="350" y="300" width="60" height="60" href="https://skillicons.dev/icons?i=netlify" />
-  <image class="icon" x="450" y="300" width="60" height="60" href="https://skillicons.dev/icons?i=cpp" />
+  <image class="icon" x="50" y="240" width="60" height="60" href="https://skillicons.dev/icons?i=vscode" />
+  <image class="icon" x="150" y="240" width="60" height="60" href="https://skillicons.dev/icons?i=git" />
+  <image class="icon" x="250" y="240" width="60" height="60" href="https://skillicons.dev/icons?i=vercel" />
+  <image class="icon" x="350" y="240" width="60" height="60" href="https://skillicons.dev/icons?i=netlify" />
+  <image class="icon" x="450" y="240" width="60" height="60" href="https://skillicons.dev/icons?i=cpp" />
 </svg>
-
