@@ -1,5 +1,4 @@
-<h1 align="center">
-  <span style="font-size:2.5rem;">Hello, I'm <strong>Syed Shayan Haider👋 </strong></span>
+<h1 align="center">Hello <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" height="40px"> I'm Syed Shayan Haider</h1>
 
 </h1>
 
