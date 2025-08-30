@@ -19,20 +19,130 @@
 
 ## 🛠️ Tech Stack  
 
-<p align="center">
-  <!-- Animated headline -->
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=4000&color=00C4FF&center=true&vCenter=true&width=600&lines=🚀+Tech+Stack+I+Work+With" alt="Typing SVG" />
-</p>
+<!-- Tech Stack Animation (SVG, SMIL-based; GitHub-safe) -->
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 420" width="900" height="420" role="img" aria-labelledby="title desc">
+  <title id="title">Animated Tech Stack</title>
+  <desc id="desc">Icons fly in and assemble into a grid, then gently pulse.</desc>
 
-<p align="center">
-  <!-- Main skill icons -->
-  <img src="https://skillicons.dev/icons?i=python,js,react,flask,nodejs,postgres,html,css,bootstrap,tailwind,vscode,git,vercel,netlify&perline=7" />
-</p>
+  <!-- Settings -->
+  <defs>
+    <!-- Drop shadow -->
+    <filter id="shadow" x="-50%" y="-50%" width="200%" height="200%">
+      <feDropShadow dx="0" dy="2" stdDeviation="3" flood-opacity="0.25"/>
+    </filter>
 
-<p align="center">
-  <!-- Extra skill row for C++ -->
-  <img src="https://skillicons.dev/icons?i=cpp" />
-</p>
+    <!-- Reusable pulse (subtle) -->
+    <g id="pulse">
+      <animateTransform attributeName="transform" type="scale"
+        values="1;1.04;1" dur="2.5s" begin="assemble.end+0.4s" repeatCount="indefinite"/>
+    </g>
+
+    <!-- Preload single icons from skillicons (PNG). Each is 48x48 nominal. -->
+    <!-- You can swap any href to your own hosted assets if you prefer. -->
+    <image id="python" href="https://skillicons.dev/icons?i=python" width="64" height="64"/>
+    <image id="js"     href="https://skillicons.dev/icons?i=js"      width="64" height="64"/>
+    <image id="react"  href="https://skillicons.dev/icons?i=react"   width="64" height="64"/>
+    <image id="flask"  href="https://skillicons.dev/icons?i=flask"   width="64" height="64"/>
+    <image id="nodejs" href="https://skillicons.dev/icons?i=nodejs"  width="64" height="64"/>
+
+    <image id="postgres" href="https://skillicons.dev/icons?i=postgres" width="64" height="64"/>
+    <image id="html"     href="https://skillicons.dev/icons?i=html"     width="64" height="64"/>
+    <image id="css"      href="https://skillicons.dev/icons?i=css"      width="64" height="64"/>
+    <image id="bootstrap" href="https://skillicons.dev/icons?i=bootstrap" width="64" height="64"/>
+    <image id="tailwind" href="https://skillicons.dev/icons?i=tailwind" width="64" height="64"/>
+
+    <image id="vscode" href="https://skillicons.dev/icons?i=vscode" width="64" height="64"/>
+    <image id="git"    href="https://skillicons.dev/icons?i=git"    width="64" height="64"/>
+    <image id="vercel" href="https://skillicons.dev/icons?i=vercel" width="64" height="64"/>
+    <image id="netlify" href="https://skillicons.dev/icons?i=netlify" width="64" height="64"/>
+    <image id="cpp"    href="https://skillicons.dev/icons?i=cpp"    width="64" height="64"/>
+  </defs>
+
+  <!-- Background flair (subtle gradient vignette) -->
+  <radialGradient id="bg" cx="50%" cy="40%" r="70%">
+    <stop offset="0%" stop-color="#0b1020" stop-opacity="0.16"/>
+    <stop offset="100%" stop-color="#0b1020" stop-opacity="0"/>
+  </radialGradient>
+  <rect x="0" y="0" width="100%" height="100%" fill="url(#bg)"/>
+
+  <!-- Title with blinking cursor effect -->
+  <g transform="translate(450,52)" text-anchor="middle" filter="url(#shadow)">
+    <text font-family="Inter, Segoe UI, Roboto, Arial, sans-serif" font-size="28" fill="#00C4FF">Tech Stack I Work With</text>
+    <rect x="210" y="-18" width="10" height="28" fill="#00C4FF">
+      <animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite"/>
+    </rect>
+  </g>
+
+  <!-- Grid layout (3 rows x 5 columns) -->
+  <!-- Target centers -->
+  <!-- Row Y positions -->
+  <!-- r1: 130, r2: 210, r3: 290 -->
+  <!-- Column X positions: 150, 290, 430, 570, 710 -->
+
+  <!-- Helper to place and animate one icon -->
+  <!-- Usage example is below with individual <g> blocks -->
+
+  <!-- Row 1 -->
+  <g transform="translate(150,130)" filter="url(#shadow)">
+    <use href="#python"/>
+    <animateTransform id="a1" attributeName="transform" type="translate"
+      from="-220,-180" to="0,0" dur="0.8s" begin="0s" fill="freeze"
+      keySplines="0.17 0.67 0.3 1" calcMode="spline"/>
+    <animate attributeName="opacity" from="0" to="1" dur="0.6s" begin="0s" fill="freeze"/>
+    <animateTransform attributeName="transform" type="scale"
+      values="0.7;1.1;1" dur="0.6s" begin="a1.end" fill="freeze"/>
+    <g id="pulse1"><use href="#pulse"/></g>
+  </g>
+
+  <g transform="translate(290,130)" filter="url(#shadow)">
+    <use href="#js"/>
+    <animateTransform id="a2" attributeName="transform" type="translate"
+      from="240,-200" to="0,0" dur="0.8s" begin="0.08s" fill="freeze"
+      keySplines="0.17 0.67 0.3 1" calcMode="spline"/>
+    <animate attributeName="opacity" from="0" to="1" dur="0.6s" begin="0.08s" fill="freeze"/>
+    <animateTransform attributeName="transform" type="scale"
+      values="0.7;1.1;1" dur="0.6s" begin="a2.end" fill="freeze"/>
+    <g id="pulse2"><use href="#pulse"/></g>
+  </g>
+
+  <g transform="translate(430,130)" filter="url(#shadow)">
+    <use href="#react"/>
+    <animateTransform id="a3" attributeName="transform" type="translate"
+      from="-240,220" to="0,0" dur="0.8s" begin="0.16s" fill="freeze"
+      keySplines="0.17 0.67 0.3 1" calcMode="spline"/>
+    <animate attributeName="opacity" from="0" to="1" dur="0.6s" begin="0.16s" fill="freeze"/>
+    <animateTransform attributeName="transform" type="scale"
+      values="0.7;1.1;1" dur="0.6s" begin="a3.end" fill="freeze"/>
+    <g id="pulse3"><use href="#pulse"/></g>
+  </g>
+
+  <g transform="translate(570,130)" filter="url(#shadow)">
+    <use href="#flask"/>
+    <animateTransform id="a4" attributeName="transform" type="translate"
+      from="280,240" to="0,0" dur="0.8s" begin="0.24s" fill="freeze"
+      keySplines="0.17 0.67 0.3 1" calcMode="spline"/>
+    <animate attributeName="opacity" from="0" to="1" dur="0.6s" begin="0.24s" fill="freeze"/>
+    <animateTransform attributeName="transform" type="scale"
+      values="0.7;1.1;1" dur="0.6s" begin="a4.end" fill="freeze"/>
+    <g id="pulse4"><use href="#pulse"/></g>
+  </g>
+
+  <g transform="translate(710,130)" filter="url(#shadow)">
+    <use href="#nodejs"/>
+    <animateTransform id="a5" attributeName="transform" type="translate"
+      from="-260,-220" to="0,0" dur="0.8s" begin="0.32s" fill="freeze"
+      keySplines="0.17 0.67 0.3 1" calcMode="spline"/>
+    <animate attributeName="opacity" from="0" to="1" dur="0.6s" begin="0.32s" fill="freeze"/>
+    <animateTransform attributeName="transform" type="scale"
+      values="0.7;1.1;1" dur="0.6s" begin="a5.end" fill="freeze"/>
+    <g id="pulse5"><use href="#pulse"/></g>
+  </g>
+
+  <!-- Row 2 -->
+  <g transform="translate(150,210)" filter="url(#shadow)">
+    <use href="#postgres"/>
+    <animateTransform id="a6" attributeName="transform" type="translate"
+
 
 ---
 
