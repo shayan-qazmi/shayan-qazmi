@@ -1,11 +1,16 @@
+<h1 align="center">
+  <span style="font-size:2.5rem;">Hello, I'm <strong>Syed Shayan Haider👋 </strong></span>
+
+</h1>
+
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=38B2AC&center=true&vCenter=true&width=600&lines=Hello%2C+I'm+Syed+Shayan+Haider;Computer+Scientist+%7C+Web+Developer;AI+%26+Design+Enthusiast;Content+Creator+%7C+Innovator" alt="Typing Banner" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=38B2AC&center=true&vCenter=true&width=600&lines=Computer+Scientist+%7C+Web+Developer;AI+%26+Design+Enthusiast;Content+Creator+%7C+Innovator" alt="Typing Banner" />
 </p>
 
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Creative Coding" width="420px"/>
 </p>
-
+  <img src="https://komarev.com/ghpvc/?username=shayan-qazmi&label=Profile%20Views&color=38B2AC&style=for-the-badge" align="right" alt="Profile views counter"/>
 
 ## 👨🏻‍💻 About Me  
 
@@ -57,7 +62,7 @@
 ---
 ---
 
-## ✨🐍 Contribution Graph Animation 🐍✨</h2>
+## ✨🐍 Contribution Graph 🐍✨</h2>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="snake animation" />
