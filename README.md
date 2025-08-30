@@ -20,7 +20,7 @@
 ## 🛠️ Tech Stack  
 
 <p align="center">
-  <img src="./assets/techstack.gif" width="90%">
+  <img src="./assets/techstack.svg" alt="Tech Stack Animation" width="90%" />
 </p>
 
 ---
