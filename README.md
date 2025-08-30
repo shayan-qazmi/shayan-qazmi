@@ -20,7 +20,18 @@
 ## 🛠️ Tech Stack  
 
 <p align="center">
+  <!-- Animated headline -->
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=4000&color=00C4FF&center=true&vCenter=true&width=600&lines=🚀+Tech+Stack+I+Work+With" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <!-- Main skill icons -->
   <img src="https://skillicons.dev/icons?i=python,js,react,flask,nodejs,postgres,html,css,bootstrap,tailwind,vscode,git,vercel,netlify&perline=7" />
+</p>
+
+<p align="center">
+  <!-- Extra skill row for C++ -->
+  <img src="https://skillicons.dev/icons?i=cpp" />
 </p>
 
 ---
