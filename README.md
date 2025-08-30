@@ -20,9 +20,8 @@
 ## 🛠️ Tech Stack  
 
 <p align="center">
-  <img src="./assets/techstack.svg" width="95%" />
+  <img src="./assets/techstack.gif" width="90%">
 </p>
-
 
 ---
 
