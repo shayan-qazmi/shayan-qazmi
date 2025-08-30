@@ -20,10 +20,7 @@
 ## 🛠️ Tech Stack  
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D8FF&width=435&lines=🚀+Tech+Stack;Building+Cool+Projects;Always+Learning+%F0%9F%92%AA" alt="Typing SVG" />
-</p>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,react,flask,nodejs,postgres,html,css,bootstrap,tailwind,vscode,git,vercel,netlify,cpp&perline=7" />
+  <img src="https://skillicons.dev/icons?i=python,js,react,flask,nodejs,postgres,html,css,bootstrap,tailwind,vscode,git,vercel,netlify,cpp&perline=5" />
 </p>
 
 
