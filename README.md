@@ -7,7 +7,8 @@
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Creative Coding" width="420px"/>
+<img src="https://media.giphy.com/media/3o7abB06u9bNzA8lu8/giphy.gif" alt="R2D2" width="420px"/>
+
 </p>
   <img src="https://komarev.com/ghpvc/?username=shayan-qazmi&label=Profile%20Views&color=38B2AC&style=for-the-badge" align="right" alt="Profile views counter"/>
 
