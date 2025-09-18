@@ -32,14 +32,12 @@
 ---
 
 ## 📊 GitHub Analytics  
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shayan-qazmi&show_icons=true&theme=tokyonight&hide_border=true" height="170px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shayan-qazmi&layout=compact&theme=tokyonight&hide_border=true" height="170px"/>
+  <img src="https://github-readme-stats-anuraghazra1.vercel.app/api?username=shayan-qazmi&show_icons=true&theme=tokyonight&hide_border=true" height="170px"/>
+  <img src="https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=shayan-qazmi&layout=compact&theme=tokyonight&hide_border=true" height="170px"/>
 </p>
-
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=shayan-qazmi&theme=tokyonight&hide_border=true" height="170px" />
+  <img src="https://streak-stats.vercel.app?user=shayan-qazmi&theme=tokyonight&hide_border=true" height="170px"/>
 </p>
 
 <p align="center">
