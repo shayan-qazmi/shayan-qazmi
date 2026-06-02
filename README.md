@@ -58,7 +58,7 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/abressiddique/abressiddique/main/githubgif.gif" alt="GIF" />
+  <img src="https://raw.githubusercontent.com/abressiddique/abressiddique/main/githubgif.gif" width="600" alt="GIF" />
 </p>
 
 ---
