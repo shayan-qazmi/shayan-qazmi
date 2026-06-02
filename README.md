@@ -57,6 +57,10 @@
   <a href="https://wa.me/923130882881"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
 </p>
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/abressiddique/abressiddique/main/githubgif.gif" width="600" alt="GIF" />
+</p>
+
 ---
 ---
 
