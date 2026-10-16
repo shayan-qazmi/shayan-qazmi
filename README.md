@@ -14,10 +14,10 @@
 
 ## 👨🏻‍💻 About Me  
 
-- 💻 **Computer Scientist | Web Developer | Content Creator**  
+- 💻 **Software Engineer | Developer | Content Creator**  
 - 🌟 Building experiences at the intersection of **technology & creativity**  
-- 🚀 Currently working on **WeedWatch – AI-powered weed detection system**  
-- 🌱 Always learning **Python, Flask, React, AWS deployment**  
+- 🚀 Currently working on ** Multiple Software Projects**  
+- 🌱 Always learning **Python, C#, React, AWS deployment**  
 - 👯 Open to collaborating on **tech projects, apps, & content**  
 - ⚡ Fun fact: I enjoy **gaming 🎮 & exploring tech trends 🚀**.
 ---
